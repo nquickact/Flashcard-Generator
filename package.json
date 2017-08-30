@@ -1,0 +1,25 @@
+{
+    "name": "Flashcard-Generator",
+    "version": "1.0.0",
+    "description": "In this week's assignment, you will create the backend for a basic flashcard application.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jasonboru/Flashcard-Generator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jasonboru/Flashcard-Generator/issues"
+    },
+    "homepage": "https://github.com/jasonboru/Flashcard-Generator#readme",
+    "dependencies": {
+        "colors": "^1.1.2",
+        "inquirer": "^3.0.6",
+        "requirer": "0.0.4"
+    }
+}
